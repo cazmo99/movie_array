@@ -1,0 +1,12 @@
+Here are the libraries that I have used
+creating this mobile application:
+
+1. dio - HTTP client that helps connecting with third party API.
+2. provider - used for state management.
+3. get_it - used for the dependency injection.
+4. stacked -  used as the base architecture. It is a MVVM architecture that is very efficent to use.
+5. stacked_services - used to remove boilerplate codes. 
+    Having a clean and readable code is the best a developer could do, 
+    hat is why I am using this and 'stacked'.
+6. build_runner - used for auto code generation when creating the app.dart.
+7. stacked_generator - used to reduce boilerplate required setup of a stacked architectured application.
